@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\source2.c">
+    <ClCompile Include="source2.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
