@@ -1,0 +1,12 @@
+﻿  source.c
+E:\VSDOCE\GITHUB\LabWork\LabWork78\source.c(161,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  E:\VSDOCE\GITHUB\LabWork\LabWork78\source.c(161,17):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  E:\VSDOCE\GITHUB\LabWork\LabWork78\source.c(161,17):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  E:\VSDOCE\GITHUB\LabWork\LabWork78\source.c(161,17):
+  этот аргумент используется в качестве размера буфера
+  
+E:\VSDOCE\GITHUB\LabWork\LabWork78\source.c(185,9): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+E:\VSDOCE\GITHUB\LabWork\LabWork78\source.c(189,9): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+  LabWork78.vcxproj -> E:\VSDOCE\GITHUB\LabWork\LabWork78\x64\Debug\ex1.exe
