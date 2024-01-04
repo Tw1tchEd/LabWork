@@ -1,1 +1,1 @@
-This is Repository of C exercises of mine
+I believe in OAiP supremacy
